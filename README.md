@@ -13,4 +13,4 @@ GNU GPL v3.0 License
 
 # The template
 
-[template.pdf]
+![template.pdf](https://github.com/simonsymhoven/LaTexBeamerTemplate/blob/master/template.pdf)
