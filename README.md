@@ -10,3 +10,4 @@ Pasquale Africa (https://github.com/elauksap/focus-beamertheme)
 
 # Template license:
 GNU GPL v3.0 License
+[![Jenkins](https://ci.jenkins.io/job/Plugins/job/analysis-model/job/master/badge/icon)]
