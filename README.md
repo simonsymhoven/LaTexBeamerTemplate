@@ -10,3 +10,7 @@ Pasquale Africa (https://github.com/elauksap/focus-beamertheme)
 
 # Template license:
 GNU GPL v3.0 License
+
+# The template
+
+[template.pdf]
